@@ -1,10 +1,10 @@
- Here are the variables included in the tidy data set:
+ ### Here are the variables included in the tidy data set:
  
  [1] "activityID" - This includes the activity IDs                                                 
  [2] "activitylabels" - This includes the activity names                                             
  [3] "subjectID" - This includes the Subject IDs
  
- *Next variables are the variables that describe the summaries calculated:  
+ ### *Next variables are the variables that describe the summaries calculated:  
  [4] "TimeBodyAccelerate-Mean-X"                                  
  [5] "TimeBodyAccelerate-Mean-Y"                                  
  [6] "TimeBodyAccelerate-Mean-Z"                                  
